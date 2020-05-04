@@ -8,4 +8,4 @@ second_number = 23
 
 sum = first_number + second_number
 
-difference = 
+difference = sum - first_number
